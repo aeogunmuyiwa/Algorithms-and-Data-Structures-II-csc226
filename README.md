@@ -2,9 +2,6 @@
 CSC226: Algorithms and Data Structures II
 
  Course Overview
-
-This course is the continuation of Algorithms and Data Structures I (CSC 225). Students will learn a variety of important data structures, algorithms, and algorithm design techniques. Relevant mathematical concepts are an integral part of this course, as are detailed algorithm implementations in Java.
-
 Calendar description:
 Advanced techniques for design, analysis, and implementation of algorithms and data structures with an introduction to algorithm engineering.
 Algorithmic design paradigms: greedy, divide-and-conquer, dynamic programming, backtracking, branch and bound.
@@ -13,9 +10,8 @@ Advanced data structures: hashing, disjoint sets.
 Advanced graph algorithms: network flow, connectivity, minimum spanning trees, shortest paths.
 Mathematical tools: graphs and digraphs, graph properties, planar graphs, networks; discrete probability, counting techniques, recurrences.
 Advanced problem solving with the computer requires choosing, developing, and implementing appropriate algorithms and data structures, as well as testing and proving correctness of algorithms and implementations. Efficiency of the algorithms and data structures is essential.
-Topics
 
-Rough list of topics (22 lectures + midterm):
+Topics covered 
 
     intro, tree definitions and properties, the natural correspondence.
     review heaps, Huffman's algorithm.
