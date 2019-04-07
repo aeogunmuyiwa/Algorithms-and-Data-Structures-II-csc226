@@ -1,5 +1,4 @@
-# csc-226-
-CSC226: Algorithms and Data Structures II
+# Algorithms and Data Structures II
 
  Course Overview
 Calendar description:
